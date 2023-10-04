@@ -20,6 +20,7 @@ CREATE TABLE treatments (
     name varchar(50)
 );
 
+
 CREATE TABLE invoices (
     id SERIAL PRIMARY KEY NOT NULL,
     total_amount DECIMAL,
