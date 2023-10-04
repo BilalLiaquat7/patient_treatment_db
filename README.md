@@ -118,7 +118,7 @@ To run tests after setting up the linters, run the following command:
 👤 **Zelalem**
 
 - GitHub: [@githubhandle](https://github.com/Zel-hub7)
-- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/zelalem-yohannes-40356a239/))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zelalem-yohannes-40356a239/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
